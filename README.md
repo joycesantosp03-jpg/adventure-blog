@@ -1,3 +1,7 @@
+## 🌎 Deploy
+
+👉 [Acesse o projeto aqui](https://joycesantosp03-jpg.github.io/adventure-blog/)
+
 # Adventure Blog
 
 Projeto de blog de viagens e aventuras desenvolvido com HTML5 e CSS3.
